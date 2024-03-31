@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Whats The Weather Today? </string>
+    <string name="weather_info">Temperature: %1$s°C\nCondition: %2$s</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="city_name_hint">Enter city name</string>
+    <string-array name="country_names">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Berlin</item>
+        <item>Moscow</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Mumbai</item>
+        <item>New Delhi</item>
+        <item>São Paulo</item>
+        <item>Mexico City</item>
+        <item>Cairo</item>
+        <item>Johannesburg</item>
+        <item>Istanbul</item>
+        <item>Sydney</item>
+        <item>Melbourne</item>
+        <item>Seoul</item>
+        <item>Singapore</item>
+        <item>Dubai</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Buenos Aires</item>
+        <item>Rio de Janeiro</item>
+        <item>Lima</item>
+        <item>Bangkok</item>
+        <item>Kuala Lumpur</item>
+        <item>Jakarta</item>
+        <item>Manila</item>
+        <item>Hong Kong</item>
+        <item>Taipei</item>
+        <item>Cape Town</item>
+        <item>Nairobi</item>
+        <item>Lagos</item>
+        <item>Madrid</item>
+        <item>Rome</item>
+        <item>Oslo</item>
+        <item>Stockholm</item>
+        <item>Helsinki</item>
+        <item>Copenhagen</item>
+        <item>Amsterdam</item>
+        <item>Brussels</item>
+        <item>Viena</item>
+        <item>Warsaw</item>
+        <item>Prague</item>
+        <item>Budapest</item>
+        <item>Athens</item>
+        <item>Lisbon</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_theme" android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_light_dark_toggle"
+            android:title="Toggle Light/Dark Mode"
+            android:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:showAsAction="always"
+            tools:ignore="AppCompatResource" />
+    </group>
+    <group android:id="@+id/group_temperature_units" android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_metric"
+            android:title="Metric (°C)" />
+        <item
+            android:id="@+id/menu_imperial"
+            android:title="Imperial (°F)" />
+    </group>
+</menu>
